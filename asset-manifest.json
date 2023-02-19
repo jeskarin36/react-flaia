@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-flaia/static/css/main.19d8d719.css",
+    "main.js": "/react-flaia/static/js/main.05c549af.js",
+    "static/media/RS8384_GettyImages-1149029938-hig.jpg": "/react-flaia/static/media/RS8384_GettyImages-1149029938-hig.7080e145e3d02cccb0b5.jpg",
+    "static/media/Primary-Image-shopping-sites-online-3482901-jpg": "/react-flaia/static/media/Primary-Image-shopping-sites-online-3482901-d743a0c886a24385ae0990af5eac4901.a9e630891593657054c3.jpg",
+    "static/media/image_processing20210619-27756-1gs6b8z.png": "/react-flaia/static/media/image_processing20210619-27756-1gs6b8z.6f7b8c042622401bfd25.png",
+    "static/media/Gontran-2-1024x579.jpg": "/react-flaia/static/media/Gontran-2-1024x579.fc7fb46b472cf3b3bce5.jpg",
+    "static/media/online-shopping.jpg": "/react-flaia/static/media/online-shopping.f4d6ae11ae4a0193385c.jpg",
+    "static/media/istockphoto-1311600080-170667a.jpg": "/react-flaia/static/media/istockphoto-1311600080-170667a.30571d3c5bafc96e7241.jpg",
+    "static/media/online-shopping-boom-continues-in-2022.jpg": "/react-flaia/static/media/online-shopping-boom-continues-in-2022.8d8eb46736c080c4e8a2.jpg",
+    "static/media/people.png": "/react-flaia/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/react-flaia/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/react-flaia/index.html",
+    "main.19d8d719.css.map": "/react-flaia/static/css/main.19d8d719.css.map",
+    "main.05c549af.js.map": "/react-flaia/static/js/main.05c549af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d8d719.css",
+    "static/js/main.05c549af.js"
+  ]
+}
