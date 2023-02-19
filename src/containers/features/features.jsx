@@ -4,20 +4,20 @@ import "./features.css";
 
 const featuresData = [
     {
-      title: 'Improving end distrusts instantly',
-      text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+      title: 'Feature 1',
+      text: 'Talk about some of the details of your offer with a focus on the value people get back.',
     },
     {
-      title: 'Become the tended active',
-      text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+      title: 'Feature 2',
+      text: 'Is there a pain point that your product or service resolves? Tell visitors about it here.',
     },
     {
-      title: 'Message or am nothing',
-      text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+      title: 'Feature 3',
+      text: 'Alternatively, you could use this section to address some frequently asked questions.',
     },
     {
-      title: 'Really boy law county',
-      text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+      title: 'Feature 4',
+      text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores rem ipsa deb  ",
     },
   ];
 

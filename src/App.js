@@ -8,7 +8,6 @@ import "./App.css"
     return(
     <div className="App">
                 <div className="gradient__bg">
-                    <Navbar></Navbar>
                     <Header></Header>
                 </div>
                 <Brand></Brand>

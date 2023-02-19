@@ -6,16 +6,16 @@ import {Feature} from "../../components";
     return(
     <div className="gpt3__whatgpt3 section__margin" id="whpt3">
        <div className="gpt3__whatgpt3-feature">
-            <Feature title="What is GPT-3?" text=" Lorem ipsum doloam aperiam qquatur."></Feature>
+            <Feature title="What is FlashGoods?" text="Lorem ipsum doloam aperiam qquatur, doloam aperiam qquatur, doloam aperiam qquatur. Lorem aperiam qquatur, doloam aperiam qquatur. Lorem"></Feature>
        </div>
        <div className="gpt3__whatgpt3-heading">
-            <h1 className="gradient__text">The Posibilities are beyond your Imagination</h1>
-            <p>Explore The Library</p>
+            <h1 className="gradient__text">Order from wherever you are</h1>
+            <p>Explore Our Offers</p>
        </div>
        <div className="gpt3__whatgpt3-container">
-            <Feature title="Chatbots" text=" Lorem ipsum dolor sit amet, Totam, consequatur."></Feature>
-            <Feature title="KnowLedgebase" text=" Lorem ipsum dolor sit amet,uam  consequatur."></Feature>
-            <Feature title="Education" text=" Lorem ipsum dolor sit asam nihil reiciendis? Totam, consequatur."></Feature>
+            <Feature title="Benefit 1" text="For example, restaurants and bakeries could outline the health benefits of their all-natural ingredients."></Feature>
+            <Feature title="Benefit 2" text="Florists and other small retailers might use this space to describe how their products make delightful, one-of-a-kind gifts."></Feature>
+            <Feature title="Benefit 3" text="You could also add buttons to this section and share links to other products or available delivery methods."></Feature>
        </div>
     </div>)
  }
